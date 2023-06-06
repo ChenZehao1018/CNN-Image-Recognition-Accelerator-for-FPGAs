@@ -1,0 +1,709 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/Comp arch II/Lab2.5 Pipelining ALU/project_template/modelsim
+Eargmax
+Z0 w1685830440
+Z1 DPx4 work 9 data_type 0 22 z]R[o@X;5HgCf5UJcLXAc0
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 68
+Z5 dC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/modelsim
+Z6 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/argmax.vhd
+Z7 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/argmax.vhd
+l0
+L7 1
+V?0i5S6TJQT`NQ>TR?h;LP3
+!s100 aiK?Tm=?lTUB]Qa1IKT[83
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1685832202
+!i10b 1
+Z10 !s108 1685832202.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/argmax.vhd|
+Z12 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/argmax.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 6 argmax 0 22 ?0i5S6TJQT`NQ>TR?h;LP3
+!i122 68
+l23
+L18 33
+VGo@8I7ZY5`5FZ0gTV?ACm2
+!s100 IXBTd]bjJV:oc3LElOk;13
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eargmax_tb
+Z15 w1685803258
+R1
+R2
+R3
+R4
+!i122 77
+R5
+Z16 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/argmax_tb.vhd
+Z17 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/argmax_tb.vhd
+l0
+L7 1
+VU6[GEla5_:l1i>595K`<90
+!s100 aUX[TgERPd0C6?4=aM`Fc1
+R8
+32
+Z18 !s110 1685832204
+!i10b 1
+Z19 !s108 1685832204.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/argmax_tb.vhd|
+Z21 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/argmax_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R1
+R2
+R3
+R4
+DEx4 work 9 argmax_tb 0 22 U6[GEla5_:l1i>595K`<90
+!i122 77
+l33
+L10 86
+Ve9H=;3cFQ5P4WdCbLa8Q11
+!s100 e_]ha_l;>zEOhZQ`6ESY11
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Ecnn_accelerator
+Z22 w1685790476
+R1
+R2
+R3
+R4
+!i122 69
+R5
+Z23 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/CNN_accelerator.vhd
+Z24 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/CNN_accelerator.vhd
+l0
+L6 1
+V28FMl[Sl?B@a;XT;cPLBD3
+!s100 [4[=lYB3jz>Rf`HFN<fk_0
+R8
+32
+Z25 !s110 1685832203
+!i10b 1
+Z26 !s108 1685832203.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/CNN_accelerator.vhd|
+Z28 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/CNN_accelerator.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 15 cnn_accelerator 0 22 28FMl[Sl?B@a;XT;cPLBD3
+!i122 69
+l168
+L29 237
+Vk_kbUaf7<3;U<FkmAjUQC3
+!s100 =hGBC2P^d[Gc8>JHdE;<G3
+R8
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R13
+R14
+Ecnn_accelerator_tb
+R0
+R1
+R2
+R3
+R4
+!i122 78
+R5
+Z29 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd
+Z30 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd
+l0
+L6 1
+VWeX9SG32TQ6agdF=?E_k32
+!s100 ?T=:JiClX2LHhgPX[Uk<H1
+R8
+32
+R18
+!i10b 1
+R19
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd|
+Z32 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd|
+!i113 1
+R13
+R14
+Asim
+R1
+R2
+R3
+R4
+DEx4 work 18 cnn_accelerator_tb 0 22 WeX9SG32TQ6agdF=?E_k32
+!i122 78
+l69
+L9 156
+V1`Bj8Jcj@@o7kOkaSO=AT3
+!s100 FEIi:8fd=[X>kLWX[Q^8C3
+R8
+32
+R18
+!i10b 1
+R19
+R31
+R32
+!i113 1
+R13
+R14
+Econv_block
+R15
+R1
+R2
+R3
+R4
+!i122 70
+R5
+Z33 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_block.vhd
+Z34 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_block.vhd
+l0
+L6 1
+VQM>7@K_0X8Gic6e>CWcg63
+!s100 okKMVl46>Fhgeok:A@M2c2
+R8
+32
+R25
+!i10b 1
+R26
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_block.vhd|
+Z36 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_block.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 10 conv_block 0 22 QM>7@K_0X8Gic6e>CWcg63
+!i122 70
+l46
+L22 65
+VNedF2dQ>U`DRNJj9<:i901
+!s100 Aa]4b6=gD^hc6?X5b<1P>0
+R8
+32
+R25
+!i10b 1
+R26
+R35
+R36
+!i113 1
+R13
+R14
+Econv_filter
+Z37 w1685832233
+R1
+R2
+R3
+R4
+!i122 86
+R5
+Z38 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_filter.vhd
+Z39 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_filter.vhd
+l0
+L6 1
+VR1FzJRm1zheL5NLeb0INT2
+!s100 o^DH_2YREXSL`XUKaMKMO0
+R8
+32
+Z40 !s110 1685832240
+!i10b 1
+Z41 !s108 1685832240.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_filter.vhd|
+!s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_filter.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+Z43 DEx4 work 11 conv_filter 0 22 R1FzJRm1zheL5NLeb0INT2
+!i122 86
+l28
+L16 32
+VWB5iiML;YEXEhOB5ULco^2
+!s100 `Ef0IZ=UP573QQYRFohWT3
+R8
+32
+R40
+!i10b 1
+R41
+R42
+Z44 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/conv_filter.vhd|
+!i113 1
+R13
+R14
+Econv_filter_tb
+Z45 w1685797960
+R1
+R2
+R3
+R4
+!i122 79
+R5
+Z46 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/conv_filter_tb.vhd
+Z47 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/conv_filter_tb.vhd
+l0
+L6 1
+VSaL<=moDdNj`g`:6Zf]0F3
+!s100 cc;>0;[j[i93S5ZR]Sa7a0
+R8
+32
+R18
+!i10b 1
+R19
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/conv_filter_tb.vhd|
+Z49 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/conv_filter_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 14 conv_filter_tb 0 22 SaL<=moDdNj`g`:6Zf]0F3
+!i122 79
+l29
+L10 69
+VeNLmVgYAbI2IBES:S]5cP3
+!s100 E8`gIeTeiYcD^866aoPKZ1
+R8
+32
+R18
+!i10b 1
+R19
+R48
+R49
+!i113 1
+R13
+R14
+Pdata_type
+R2
+R3
+R4
+!i122 71
+R22
+R5
+8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/data_type.vhd
+FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/data_type.vhd
+l0
+L5 1
+Vz]R[o@X;5HgCf5UJcLXAc0
+!s100 4:Q8DPFk=_RoVFaQ<mBn=2
+R8
+32
+R25
+!i10b 1
+R26
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/data_type.vhd|
+!s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/data_type.vhd|
+!i113 1
+R13
+R14
+Edma
+R15
+R1
+R2
+R3
+R4
+!i122 72
+R5
+Z50 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/dma.vhd
+Z51 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/dma.vhd
+l0
+L6 1
+V8]oDY?GP]6?d4DY<mYPBD2
+!s100 iN`Cnz7l82z72C_FROj=J1
+R8
+32
+R25
+!i10b 1
+R26
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/dma.vhd|
+Z53 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/dma.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 3 dma 0 22 8]oDY?GP]6?d4DY<mYPBD2
+!i122 72
+l75
+L42 258
+VZ9OEN7lUaBSGbgkOU;fRB2
+!s100 R>n[dC=HD64ej?b=ci]iT2
+R8
+32
+R25
+!i10b 1
+R26
+R52
+R53
+!i113 1
+R13
+R14
+Edma_tb
+R15
+R1
+R2
+R3
+R4
+!i122 80
+R5
+Z54 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/dma_tb.vhd
+Z55 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/dma_tb.vhd
+l0
+L6 1
+VXjR0C@F=bYVzUcKC;C8WA3
+!s100 WD[kSXJa>;IdA;CCFi0ej2
+R8
+32
+R18
+!i10b 1
+R19
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/dma_tb.vhd|
+Z57 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/dma_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 6 dma_tb 0 22 XjR0C@F=bYVzUcKC;C8WA3
+!i122 80
+l79
+L9 168
+V@KCA6I?0HHDAb<h65^]8l2
+!s100 _0E9:];oG7RlkFfaR5`j31
+R8
+32
+R18
+!i10b 1
+R19
+R56
+R57
+!i113 1
+R13
+R14
+Efully_connected_layer
+R15
+R1
+R2
+R3
+R4
+!i122 73
+R5
+Z58 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/fully_connected_layer.vhd
+Z59 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/fully_connected_layer.vhd
+l0
+L6 1
+VWE4MBi]7SeKnmKZfZnMHO2
+!s100 LGYkSBfCWmRST[z`D[z4:1
+R8
+32
+R25
+!i10b 1
+R26
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/fully_connected_layer.vhd|
+Z61 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/fully_connected_layer.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 21 fully_connected_layer 0 22 WE4MBi]7SeKnmKZfZnMHO2
+!i122 73
+l42
+L25 72
+V???P;8>Y?`:?b<ginnaFT3
+!s100 0Mz14M?FJan=E;hYM?0`@0
+R8
+32
+R25
+!i10b 1
+R26
+R60
+R61
+!i113 1
+R13
+R14
+Efully_connected_layer_tb
+R22
+R1
+R2
+R3
+R4
+!i122 81
+R5
+Z62 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd
+Z63 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd
+l0
+L6 1
+V3<X2ZS[Imb1beXaCSPL;03
+!s100 chPe3NLjbAAz?U1m<]gf60
+R8
+32
+R18
+!i10b 1
+R19
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd|
+Z65 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 24 fully_connected_layer_tb 0 22 3<X2ZS[Imb1beXaCSPL;03
+!i122 81
+l34
+L9 95
+VRYGR?ziKM:Yh83lAeNgFT3
+!s100 V1NfXFCd^4Dg`3MZ0h3V>0
+R8
+32
+R18
+!i10b 1
+R19
+R64
+R65
+!i113 1
+R13
+R14
+Eneuron
+Z66 w1685830569
+R1
+R2
+R3
+R4
+!i122 74
+R5
+Z67 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/neuron.vhd
+Z68 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/neuron.vhd
+l0
+L6 1
+V^2<`^<8A>V:i3nXWb=M780
+!s100 ]HFHn8idAo?JQVBaoOUC90
+R8
+32
+R25
+!i10b 1
+R26
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/neuron.vhd|
+Z70 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/neuron.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 6 neuron 0 22 ^2<`^<8A>V:i3nXWb=M780
+!i122 74
+l18
+L14 25
+V4o8mD49cXhCC;T=m1agn=3
+!s100 T1AW4T]3zTI[EhK2UzLR<0
+R8
+32
+R25
+!i10b 1
+R26
+R69
+R70
+!i113 1
+R13
+R14
+Eneuron_tb
+Z71 w1685558814
+R1
+R2
+R3
+R4
+!i122 82
+R5
+Z72 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/neuron_tb.vhd
+Z73 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/neuron_tb.vhd
+l0
+L6 1
+VBV8>he`AF2BX:1;fO^ooL0
+!s100 6E6Sc0LfbAY@lb8ikz;m71
+R8
+32
+R18
+!i10b 1
+R19
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/neuron_tb.vhd|
+Z75 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/TB/neuron_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 9 neuron_tb 0 22 BV8>he`AF2BX:1;fO^ooL0
+!i122 82
+l26
+L10 45
+VHQO^K^zUkR3dHagOF6hZN1
+!s100 OOfcGGFQTVEI0LHgGb?Q03
+R8
+32
+R18
+!i10b 1
+R19
+R74
+R75
+!i113 1
+R13
+R14
+Eregister_map
+Z76 w1685636542
+R1
+R2
+R3
+R4
+!i122 75
+R5
+Z77 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/register_map.vhd
+Z78 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/register_map.vhd
+l0
+L6 1
+VjJ`>Z^CAdo1Q>9B=2iPEh2
+!s100 5cPJ^Zdzgheaz_1TTOA003
+R8
+32
+R25
+!i10b 1
+R26
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/register_map.vhd|
+Z80 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/register_map.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 12 register_map 0 22 jJ`>Z^CAdo1Q>9B=2iPEh2
+!i122 75
+l40
+L31 79
+VR?L[bOh7Gb9o915db7k5V2
+!s100 kliT`;c4niTZ897U8<03H1
+R8
+32
+R25
+!i10b 1
+R26
+R79
+R80
+!i113 1
+R13
+R14
+Erelu
+R15
+R1
+R2
+R3
+R4
+!i122 76
+R5
+Z81 8C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/ReLU.vhd
+Z82 FC:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/ReLU.vhd
+l0
+L6 1
+V;XDXb@OaK8zcA6P>>Z9g83
+!s100 jY6QE^8]oPmgIHYTaZloI1
+R8
+32
+R18
+!i10b 1
+R26
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/ReLU.vhd|
+Z84 !s107 C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final_project/hw/quartus/ip/ReLU.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 4 relu 0 22 ;XDXb@OaK8zcA6P>>Z9g83
+!i122 76
+l15
+L13 14
+VdK@hDdoPo2?Z81FbfTiAX3
+!s100 d@16Q>m4XEbQI_`H1K?HQ1
+R8
+32
+R18
+!i10b 1
+R26
+R83
+R84
+!i113 1
+R13
+R14

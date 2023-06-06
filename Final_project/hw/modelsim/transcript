@@ -1,0 +1,95 @@
+# Errors: 0, Warnings: 0
+# Compile of argmax.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of CNN_accelerator.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of conv_block.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of data_type.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of dma.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of fully_connected_layer.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of neuron.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of register_map.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of ReLU.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of argmax_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of CNN_accelerator_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of conv_filter_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of dma_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of fully_connected_layer_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of neuron_tb.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of conv_filter.vhd failed.
+# Errors: 0, Warnings: 0
+# Compile of argmax.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of CNN_accelerator.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of conv_block.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of data_type.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of dma.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of fully_connected_layer.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of neuron.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of register_map.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of ReLU.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of argmax_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of CNN_accelerator_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of conv_filter_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of dma_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of fully_connected_layer_tb.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of neuron_tb.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of conv_filter.vhd failed.
+# Compile of conv_filter.vhd was successful.
+vsim -gui work.cnn_accelerator_tb
+# vsim -gui work.cnn_accelerator_tb 
+# Start time: 00:44:15 on Jun 04,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.data_type
+# Loading work.cnn_accelerator_tb(sim)
+# Loading work.cnn_accelerator(behavioral)
+# Loading work.register_map(behavioral)
+# Loading work.dma(behavioral)
+# Loading work.conv_block(behavioral)
+# Loading work.conv_filter(behavioral)
+# Loading work.relu(behavioral)
+# Loading work.fully_connected_layer(behavioral)
+# Loading work.neuron(behavioral)
+# Loading work.argmax(behavioral)
+add wave -position end  sim:/cnn_accelerator_tb/uut/conv_block_inst/convolved_res
+add wave -position end  sim:/cnn_accelerator_tb/uut/conv_block_inst/convolved_regs_o
+add wave -position 0  sim:/cnn_accelerator_tb/uut/conv_block_inst/image_start_i
+add wave -position 1  sim:/cnn_accelerator_tb/uut/conv_block_inst/image_data_i
+add wave -position 2  sim:/cnn_accelerator_tb/uut/conv_block_inst/image_cnt_i
+add wave -position end  sim:/cnn_accelerator_tb/uut/conv_block_inst/conv_filter_inst/conv_weights
+# End time: 01:57:35 on Jun 04,2023, Elapsed time: 1:13:20
+# Errors: 0, Warnings: 8

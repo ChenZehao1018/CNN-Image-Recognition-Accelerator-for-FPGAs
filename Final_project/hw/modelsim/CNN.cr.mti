@@ -1,0 +1,365 @@
+{{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/neuron_tb.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/neuron_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/neuron_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity neuron_tb
+-- Compiling architecture Behavioral of neuron_tb
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/argmax_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/argmax_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity argmax_tb
+-- Compiling architecture tb of argmax_tb
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/register_map.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/register_map.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity register_map
+-- Compiling architecture Behavioral of register_map
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/dma.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/dma.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:56 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/dma.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity dma
+-- Compiling architecture Behavioral of dma
+End time: 15:10:56 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/fully_connected_layer.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/fully_connected_layer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:56 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/fully_connected_layer.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity fully_connected_layer
+-- Compiling architecture Behavioral of fully_connected_layer
+End time: 15:10:56 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/register_map.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/register_map.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:56 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/register_map.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity register_map
+-- Compiling architecture Behavioral of register_map
+End time: 15:10:56 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/argmax_tb.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/argmax_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/argmax_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity argmax_tb
+-- Compiling architecture tb of argmax_tb
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/CNN_accelerator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/CNN_accelerator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity CNN_accelerator
+-- Compiling architecture Behavioral of CNN_accelerator
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/CNN_accelerator.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/CNN_accelerator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:58 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/CNN_accelerator.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity CNN_accelerator
+-- Compiling architecture Behavioral of CNN_accelerator
+End time: 15:10:58 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity fully_connected_layer_tb
+-- Compiling architecture behavioral of fully_connected_layer_tb
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/dma_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/dma_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity dma_tb
+-- Compiling architecture Behavioral of dma_tb
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity CNN_accelerator_tb
+-- Compiling architecture sim of CNN_accelerator_tb
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/CNN_accelerator_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity CNN_accelerator_tb
+-- Compiling architecture sim of CNN_accelerator_tb
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/neuron.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/neuron.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:56 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/neuron.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity neuron
+-- Compiling architecture Behavioral of neuron
+End time: 15:10:56 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/neuron_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/neuron_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity neuron_tb
+-- Compiling architecture Behavioral of neuron_tb
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/fully_connected_layer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/fully_connected_layer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity fully_connected_layer
+-- Compiling architecture Behavioral of fully_connected_layer
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/dma.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/dma.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity dma
+-- Compiling architecture Behavioral of dma
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/data_type.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/data_type.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package data_type
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_filter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jthom\OneDrive\Root\EPFL\Courses\MA2\RTEmbeddedSystems\CS-476_RTEmbeddedSystems\Final project\hw\quartus\ip\conv_filter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity conv_filter
+-- Compiling architecture Behavioral of conv_filter
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_filter.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_filter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:58 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_filter.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity conv_filter
+-- Compiling architecture Behavioral of conv_filter
+End time: 15:10:58 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/data_type.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/data_type.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:56 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/data_type.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package data_type
+End time: 15:10:56 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/dma_tb.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/dma_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/dma_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity dma_tb
+-- Compiling architecture Behavioral of dma_tb
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/fully_connected_layer_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity fully_connected_layer_tb
+-- Compiling architecture behavioral of fully_connected_layer_tb
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/conv_filter_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jthom\OneDrive\Root\EPFL\Courses\MA2\RTEmbeddedSystems\CS-476_RTEmbeddedSystems\Final project\hw\quartus\ip\TB\conv_filter_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity conv_filter_tb
+-- Compiling architecture Behavioral of conv_filter_tb
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/conv_filter_tb.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/conv_filter_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/TB/conv_filter_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity conv_filter_tb
+-- Compiling architecture Behavioral of conv_filter_tb
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/neuron.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/neuron.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity neuron
+-- Compiling architecture Behavioral of neuron
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/ReLU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/ReLU.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity ReLU
+-- Compiling architecture Behavioral of ReLU
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_block.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_block.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity conv_block
+-- Compiling architecture Behavioral of conv_block
+
+} {} {}} {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/argmax.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/argmax.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity argmax
+-- Compiling architecture Behavioral of argmax
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_block.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_block.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:58 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/conv_block.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity conv_block
+-- Compiling architecture Behavioral of conv_block
+End time: 15:10:58 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/argmax.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/argmax.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:57 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/argmax.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity argmax
+-- Compiling architecture Behavioral of argmax
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:00
+
+} {} {}} {{C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/ReLU.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/ReLU.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:10:56 on Jun 03,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/jthom/OneDrive/Root/EPFL/Courses/MA2/RTEmbeddedSystems/CS-476_RTEmbeddedSystems/Final project/hw/quartus/ip/ReLU.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package data_type
+-- Compiling entity ReLU
+-- Compiling architecture Behavioral of ReLU
+End time: 15:10:57 on Jun 03,2023, Elapsed time: 0:00:01
+
+} {} {}}
